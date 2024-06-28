@@ -21,7 +21,7 @@ const LandingPage = () => {
           <p className="text-xl mt-2">Experience seamless and efficient banking with Sigah Pay.</p>
           <div className="mt-6">
             <a 
-              href="https://drive.google.com/file/d/1p1Q-u03xGyvF7vsiabJAaAKiSqZc0hMk/view?usp=sharing"
+              href="https://drive.google.com/file/d/1fCNc4eGcJii4w63d-sMYhrkJdnA73Rk4/view?usp=drive_link"
               download
               className="ml-5 px-10 py-3 bg-blue-500 text-white text-lg font-bold rounded-md mr-4"
             >
@@ -100,7 +100,7 @@ const LandingPage = () => {
           <p className="text-gray-600 mt-2">Get started with Sigah Pay today and experience the best in mobile banking.</p>
           <div className="mt-6">
             <a 
-              href="https://drive.google.com/file/d/1p1Q-u03xGyvF7vsiabJAaAKiSqZc0hMk/view?usp=sharing"
+              href="https://drive.google.com/file/d/1fCNc4eGcJii4w63d-sMYhrkJdnA73Rk4/view?usp=drive_link"
               download
               className="px-6 py-3 bg-yellow-500 text-white text-lg font-bold rounded-md"
             >
